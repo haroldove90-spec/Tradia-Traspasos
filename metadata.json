@@ -2,5 +2,7 @@
   "name": "Traspasa México | Marketplace de Traspasos de Negocios",
   "description": "Plataforma líder en compra, venta y traspaso seguro de negocios y franquicias en México.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
